@@ -39,11 +39,6 @@ button {
     margin: 25px 50px;
 }
 
-button:hover {
-    /* color: black;
-    background-color: white; */
-}
-
 #increment-btn {
     background: blue;
 }
