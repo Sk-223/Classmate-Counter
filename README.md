@@ -1,13 +1,32 @@
-# co33f43d5a437f6d07d7cd30b
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+# Classmate Counter
+## Table of contents
+<a name="Languages"></a>
+- [Languages](#Languages)
+<a name="Built-With"></a>
+- [Built With](#Built-With)
+<a name="What-I've-Learned"></a>
+- [What I've Learned](#What-I've-Learned)
+<a name="Acknowledgements"></a>
+- [Acknowledgements](#Acknowledgements)
+<a name="Author"></a>
+- [Author](#Author)
+## Languages
+- HTML5
+- CSS3
+- JavaScript
+## Built With
+- Semantic HTML markup
+- Custom CSS properties
+- CSS Flexbox
+- Vanilla JavaScript
+## What I've Learned
+- How to create a counter function to increment
+- How to create a save function to store data
+- Object-Oriented Programming (OOP)
+- CSS styling
+## Acknowledgements 
+- [Scrimba](https://www.scrimba.com)
+## Author
+- [Sharon Kaufman](https://www.sharonkaufmandesign.com)
+- [LinkedIn](https://www.linkedin.com/in/sharonkaufmandesign)
+- [Github](https://github.com/Sk-223)
